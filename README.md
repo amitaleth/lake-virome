@@ -1,2 +1,2 @@
 # lake-virome
-Please contact guchengxiang7744@ouc.edu.cn
+Please contact guchengxiang7744@stu.ouc.edu.cn
